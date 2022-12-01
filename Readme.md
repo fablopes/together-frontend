@@ -1,1 +1,1 @@
-Iniciando Projeto em HTML, CSS, JS!
+Aqui se inicia o projeto da faculdade!
