@@ -1,1 +1,1 @@
-Aqui se inicia o projeto da faculdade!
+Projeto para os pais verificarem as notas dos alunos!
