@@ -19,6 +19,10 @@ body {
   display: block;
 }
 
+.voltar {
+  padding: 1rem;
+}
+
 .texto {
   display: grid;
   text-align: center;
